@@ -7,6 +7,7 @@ ___________________
 Run this python file in the same directory as the zip folder and it will unzip and sort the files into two folders: tif and las/laz
 
 The way to run it through cmd would be something like
+
 cd C:/FolderWithTheFiles/
 python Elvis_Lidar_Auto_Extractor.py
 

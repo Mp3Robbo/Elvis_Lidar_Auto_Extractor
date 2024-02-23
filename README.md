@@ -9,6 +9,7 @@ Run this python file in the same directory as the zip folder and it will unzip a
 The way to run it through cmd would be something like
 
 cd C:/FolderWithTheFiles/
+
 python Elvis_Lidar_Auto_Extractor.py
 
 _______________________
